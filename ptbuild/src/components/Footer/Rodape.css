@@ -1,0 +1,24 @@
+.container-rodape{
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.rodape{
+    box-sizing: border-box;
+}
+
+.rodape img{
+    width: 100%;
+    opacity: 0.8;
+}
+
+.letreiro{
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    background-color: black;
+    color:white;
+    display: block;
+}
